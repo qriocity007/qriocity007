@@ -20,7 +20,7 @@ Practical developer and researcher focused on building end-to-end intelligence s
 - **Languages & Frameworks:** Python, SQL, REST APIs
 - **Machine Learning & Analytics:** PyTorch, Scikit-learn, Pandas, NumPy, NLP (BERT), Computer Vision
 - **Cloud & Deployment Infrastructure:** Render, AWS (EC2, S3), Redis, Firebase Auth
-- **Data Footprint:** 240+ Kaggle Notebooks • 80+ Curated Public Datasets
+- **Data Footprint:** 240+ Kaggle Notebooks • 60+ Curated Public Datasets
 
 ---
 
