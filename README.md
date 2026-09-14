@@ -1,5 +1,5 @@
 # Hi, I'm Ayush Kumar Tiwari 👋
-**AI & ML @ Qriocity | 2+ YoE | LLMs | Agentic AI | PyTorch | NLP | Computer Vision | Production Systems**
+**AI & ML @ Qriocity | 2+ YoE | LLMs • Agentic AI • PyTorch • NLP • Computer Vision • AWS**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Tiwari-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-kumar-tiwari-2bb0a0200/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ayushcl-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/ayushcl)
